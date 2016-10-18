@@ -1,0 +1,8 @@
+E:\Software Projects New\Visual Studio 2015 Projects\PVISE\GameCode4\Dev\Source\Lib\Win32Debug\EditorApp.exe.config
+E:\Software Projects New\Visual Studio 2015 Projects\PVISE\GameCode4\Dev\Source\Lib\Win32Debug\EditorApp.exe
+E:\Software Projects New\Visual Studio 2015 Projects\PVISE\GameCode4\Dev\Source\Lib\Win32Debug\EditorApp.pdb
+E:\Software Projects New\Visual Studio 2015 Projects\PVISE\GameCode4\Dev\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.EditorForm.resources
+E:\Software Projects New\Visual Studio 2015 Projects\PVISE\GameCode4\Dev\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+E:\Software Projects New\Visual Studio 2015 Projects\PVISE\GameCode4\Dev\Source\GCC4Editor\EditorApp\obj\Debug\TeapotWarsEditorApp_2015.csproj.GenerateResource.Cache
+E:\Software Projects New\Visual Studio 2015 Projects\PVISE\GameCode4\Dev\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.exe
+E:\Software Projects New\Visual Studio 2015 Projects\PVISE\GameCode4\Dev\Source\GCC4Editor\EditorApp\obj\Debug\EditorApp.pdb
